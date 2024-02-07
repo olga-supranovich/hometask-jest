@@ -38,7 +38,7 @@ const testArrays = [
   
   describe("Тестирование выборки студентов с макс баллами", () => {
     it.each(testArrays)(
-      "Переменные значения %p полученные значения %p",
+      "Тестовый массив %o, ожидаемый результат %o",
       (students, result) => {
         console.log("Input students:", students);
         console.log("Expected result:", result);
