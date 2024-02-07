@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "hometask-jest",
+  "version": "1.0.0",
+  "main": "task_3.2.2.js",
+  "devDependencies": {
+    "babel-plugin-istanbul": "^6.1.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
